@@ -1,6 +1,23 @@
+<style>
+
+  .content {
+    text-align: center;
+    margin: auto;
+  }
+
+  table {
+    width: 80%;
+  }
+
+  th, td {
+    text-align: center;
+  }
+
+</style>
+
 <p align='center'>
   <a href='#'>
-    <img src='images/Java_logo_icon.png' alt='Logo' style='width:30%; height:30%;'>
+    <img src='images/Java_logo_icon.png' alt='Logo' style='width:20%; height:20%;'>
   </a>
   <br><br>
   <h2 align='center' style='font-size:8rem;'>Java Programs</h2>
@@ -15,7 +32,11 @@
 
 # <p style='text-align: justify;'>Contents</p>
 
+<div align='center' style='width: 100%;'>
 
-| S. No. | Item |
-|--------|------|
-|1| [Adding Digits within a String](https://github.com/SriramanRaji/Java-Programs/blob/main/AddDigitsInString.java) |
+| S. No. | Item                                                                                                            |
+| ------ | --------------------------------------------------------------------------------------------------------------- |
+| 1      | [Adding Digits within a String](https://github.com/SriramanRaji/Java-Programs/blob/main/AddDigitsInString.java) |
+|2| [Count Characters in a String](https://github.com/SriramanRaji/Java-Programs/blob/main/CountCharacters.java) |
+
+</div>
