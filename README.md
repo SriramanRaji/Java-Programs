@@ -1,21 +1,11 @@
-<style>
-
-  th, td {
-    text-align: center;
-  }
-  
-  table {
-    width: 100%;
-  }
-
-</style>
-
 <p align='center'>
-  <a href='#'>
-    <img src='images/Java_logo_icon.png' alt='Logo' style='width:10%; height:10%;'>
+  <a href='https://github.com/SriramanRaji/Java-Programs'>
+    <img src='images/Java_logo_icon.png'>
   </a>
   <br><br>
-  <h2 align='center' style='font-size:8rem;'>Java Programs</h2>
+  
+# <p style='text-align: center;'>Java Programs</p>
+
 </p>
 <br><br><br>
 
@@ -27,11 +17,11 @@
 
 # <p style='text-align: justify;'>Contents</p>
 
-<div align='center' style='width: 100%;'>
+<div style='width: 100%;'>
 
 | S. No. | Item                                                                                                            |
 | ------ | --------------------------------------------------------------------------------------------------------------- |
 | 1      | [Adding Digits within a String](https://github.com/SriramanRaji/Java-Programs/blob/main/AddDigitsInString.java) |
-|2| [Count Characters in a String](https://github.com/SriramanRaji/Java-Programs/blob/main/CountCharacters.java) |
+| 2      | [Count Characters in a String](https://github.com/SriramanRaji/Java-Programs/blob/main/CountCharacters.java)    |
 
 </div>
