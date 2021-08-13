@@ -3,6 +3,10 @@
   th, td {
     text-align: center;
   }
+  
+  table {
+    width: 100%;
+  }
 
 </style>
 
