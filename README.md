@@ -3,7 +3,7 @@
     <img src='images/Java_logo_icon.png' alt='Logo' style='width:30%; height:30%;'>
   </a>
   <br><br>
-  <h2 align='center' style='font-size:4rem;'>Java Programs</h2>
+  <h2 align='center' style='font-size:8rem;'>Java Programs</h2>
 </p>
 <br><br><br>
 
@@ -18,4 +18,4 @@
 
 | S. No. | Item |
 |--------|------|
-|1| Adding Digits within a String |
+|1| [Adding Digits within a String](https://github.com/SriramanRaji/Java-Programs/blob/main/AddDigitsInString.java) |
