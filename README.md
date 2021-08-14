@@ -14,9 +14,8 @@
 
 <div style='width: 100%;'>
 
-| Item                                                                                                            |
-| --------------------------------------------------------------------------------------------------------------- |
-| [Adding Digits within a String](https://github.com/SriramanRaji/Java-Programs/blob/main/AddDigitsInString.java) |
-| [Count Characters in a String](https://github.com/SriramanRaji/Java-Programs/blob/main/CountCharacters.java)    |
+- [Adding Digits within a String](https://github.com/SriramanRaji/Java-Programs/blob/main/AddDigitsInString.java)
+- [Count and Append Count of Character Maintaining the Sequence](https://github.com/SriramanRaji/Java-Programs/blob/main/CountAndAppendWithMaintainingSequence.java)
+- [Count Characters in a String](https://github.com/SriramanRaji/Java-Programs/blob/main/CountCharacters.java)
 
 </div>
