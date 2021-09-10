@@ -8,7 +8,7 @@
 # <p style='text-align: justify;'>About The Repository</p>
 
 <p style='text-align: justify;'>This is an idea, an Inception;  To create and share programs with everyone.!</p>
-<p align='justify'> Need a Program ? &emsp;<a style='color: coroal; text-decoration:none;' href='https://sriramanraji.github.io/requestprogram/'>Click Here</a></p>
+<p align='justify'> Need a Program / Found an Issue ? &emsp;<a style='color: coroal; text-decoration:none;' href='https://sriramanraji.github.io/requestprogram/'>Click Here</a></p>
 <br>
 
 # <p style='text-align: justify;'>Contents</p>
