@@ -23,6 +23,7 @@
 - [Fibonacci Series (with Recurssion)](https://github.com/SriramanRaji/Java-Programs/blob/main/FibonacciWithRecurssion.java)
 - [Find Duplicate Characters in a String](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateCharacter.java)
 - [Find Duplicate Word in a Sentence](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateWordInSentence.java)
+- [Generate Json with Template](https://github.com/SriramanRaji/Java-Programs/blob/main/generateJsonWithtemplate/GenerateJsonWithTemplate.java)
 - [String Palindrome (with in-built function)](https://github.com/SriramanRaji/Java-Programs/blob/main/StringPalindrome.java)
 - [String Palindrome (without in-built function)](https://github.com/SriramanRaji/Java-Programs/blob/main/StringPalindromeWithoutInbuiltFunction.java)
 - [Sum Of Digits](https://github.com/SriramanRaji/Java-Programs/blob/main/SumOfDigits.java)
