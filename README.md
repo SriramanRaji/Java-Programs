@@ -3,6 +3,7 @@
     <img src='images/Java_logo_icon.png'>
   </a>
 </p>
+<br>
 
 # <p style='text-align: justify;'>About The Repository</p>
 

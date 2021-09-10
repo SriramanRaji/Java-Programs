@@ -1,0 +1,8 @@
+{
+	"id": @ID@,
+	"name": "@NAME@",
+	"username": "@USERNAME@",
+	"email": "@EMAIL@",
+	"phone": "@PHONE@",
+	"website": "@WEBSITE@"
+}
