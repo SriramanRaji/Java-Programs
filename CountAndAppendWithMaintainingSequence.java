@@ -7,8 +7,7 @@ public class CountAndAppendWithMaintainingSequence {
 	public static String input = "zzzzzzzzzaaappbbbbb";
 	public static char[] splitInput = input.toCharArray();
 	public static String output = "";
-	
-	
+
 	public static int getCount(char check) {
 		int count = 0;
 
@@ -22,8 +21,6 @@ public class CountAndAppendWithMaintainingSequence {
 	}
 
 	public static void main(String[] args) {
-
-		
 
 		ArrayList<Character> letter = new ArrayList<Character>();
 		ArrayList<Integer> count = new ArrayList<Integer>();

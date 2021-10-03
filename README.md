@@ -16,14 +16,14 @@
 <div style='width: 100%;'>
 
 - [Adding Digits within a String](https://github.com/SriramanRaji/Java-Programs/blob/main/AddDigitsInString.java)
-- [Count and Append Count of Character Maintaining Sequence](https://github.com/SriramanRaji/Java-Programs/blob/main/CountAndAppendWithMaintainingSequence.java)
-- [Count and Append Count of Characters Without Maintaining Sequence](https://github.com/SriramanRaji/Java-Programs/blob/main/CountAndAppendWithoutMaintainingSequence.java)
+- [Count And Append Character Count](https://github.com/SriramanRaji/Java-Programs/blob/main/CountAndAppend.java)
+- [Count And Append Character Count (With Maintaining Sequence)](https://github.com/SriramanRaji/Java-Programs/blob/main/CountAndAppendWithMaintainingSequence.java)
 - [Count Characters in a String](https://github.com/SriramanRaji/Java-Programs/blob/main/CountCharacters.java)
-- [Fibonacci Series (without Recurssion)](https://github.com/SriramanRaji/Java-Programs/blob/main/FibonacciWithoutRecurssion.java)
 - [Fibonacci Series (with Recurssion)](https://github.com/SriramanRaji/Java-Programs/blob/main/FibonacciWithRecurssion.java)
+- [Fibonacci Series (without Recurssion)](https://github.com/SriramanRaji/Java-Programs/blob/main/FibonacciWithoutRecurssion.java)
 - [Find Duplicate Characters in a String](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateCharacter.java)
-- [Find Duplicate Word in a Sentence](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateWordInSentence.java)
 - [Find Duplicate Digits](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateDigits.java)
+- [Find Duplicate Word in a Sentence](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateWordInSentence.java)
 - [Generate Json with Template](https://github.com/SriramanRaji/Java-Programs/blob/main/generateJsonWithtemplate)
 - [Split String with Space and Reverse the Words](https://github.com/SriramanRaji/Java-Programs/blob/main/SplitAndReverse.java)
 - [String Palindrome (with in-built function)](https://github.com/SriramanRaji/Java-Programs/blob/main/StringPalindrome.java)
@@ -32,6 +32,7 @@
 - [Sum Of Digits Until Output becomes Single Digit](https://github.com/SriramanRaji/Java-Programs/blob/main/SumOfDigitsUntilSingleDigit.java)
 - [Swapping Digits](https://github.com/SriramanRaji/Java-Programs/blob/main/SwappingNumbers.java)
 - [Swapping Digits Without Third Variable](https://github.com/SriramanRaji/Java-Programs/blob/main/SwappingNumbersWithoutThirdVariable.java)
+
 
 
 </div>
