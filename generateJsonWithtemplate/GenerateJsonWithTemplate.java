@@ -60,8 +60,8 @@ public class GenerateJsonWithTemplate {
 	public static void main(String[] args) throws Exception {
 
 //		File path
-		String filePath = System.getProperty("user.dir") + "/src/jsonUpdate/template.json";
-		String generateFilePath = System.getProperty("user.dir") + "/src/jsonUpdate/ouput.json";
+		String filePath = System.getProperty("user.dir") + "/src/generateJsonWithtemplate/template.json";
+		String generateFilePath = System.getProperty("user.dir") + "/src/generateJsonWithtemplate/ouput.json";
 
 //		Map to handle the replace elements
 		HashMap<String, String> replace = new HashMap<String, String>();
@@ -86,7 +86,7 @@ public class GenerateJsonWithTemplate {
 
 //	Generate Json		 
 		generateJson(generateFilePath, template);
-		System.out.println("JSON File Generated.!!\n" + template);
+		System.out.println("JSON File Generated @ " + generateFilePath + "\n\n" + template);
 
 	}
 

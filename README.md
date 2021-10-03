@@ -24,7 +24,7 @@
 - [Find Duplicate Characters in a String](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateCharacter.java)
 - [Find Duplicate Digits](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateDigits.java)
 - [Find Duplicate Word in a Sentence](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateWordInSentence.java)
-- [Generate Json with Template](https://github.com/SriramanRaji/Java-Programs/blob/main/generateJsonWithtemplate)
+- [Generate Json File With Template File](https://github.com/SriramanRaji/Java-Programs/blob/main/generateJsonWithtemplate)
 - [Split String with Space and Reverse the Words](https://github.com/SriramanRaji/Java-Programs/blob/main/SplitAndReverse.java)
 - [String Palindrome (with in-built function)](https://github.com/SriramanRaji/Java-Programs/blob/main/StringPalindrome.java)
 - [String Palindrome (without in-built function)](https://github.com/SriramanRaji/Java-Programs/blob/main/StringPalindromeWithoutInbuiltFunction.java)
