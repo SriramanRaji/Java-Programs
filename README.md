@@ -25,6 +25,7 @@
 - [Find Duplicate Digits](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateDigits.java)
 - [Find Duplicate Word in a Sentence](https://github.com/SriramanRaji/Java-Programs/blob/main/FindDuplicateWordInSentence.java)
 - [Generate Json with Template](https://github.com/SriramanRaji/Java-Programs/blob/main/generateJsonWithtemplate.java)
+- [Parsing Numbers from String by Removing Leading & Trailing Zeros](https://github.com/SriramanRaji/Java-Programs/blob/main/ParsingNumbersFromString.java)
 - [Replace Vowels With Special Character](https://github.com/SriramanRaji/Java-Programs/blob/main/ReplaceVowelsWithSpecialCharacter.java)
 - [Split String with Space and Reverse the Words](https://github.com/SriramanRaji/Java-Programs/blob/main/SplitAndReverse.java)
 - [String Palindrome (with in-built function)](https://github.com/SriramanRaji/Java-Programs/blob/main/StringPalindrome.java)
@@ -33,5 +34,6 @@
 - [Sum Of Digits Until Output becomes Single Digit](https://github.com/SriramanRaji/Java-Programs/blob/main/SumOfDigitsUntilSingleDigit.java)
 - [Swapping Digits](https://github.com/SriramanRaji/Java-Programs/blob/main/SwappingNumbers.java)
 - [Swapping Digits Without Third Variable](https://github.com/SriramanRaji/Java-Programs/blob/main/SwappingNumbersWithoutThirdVariable.java)
+
 
 </div>
